@@ -5,7 +5,8 @@
 ## Sobre o Projeto
 
 O **CardCSS** é um projeto que faz parte de um tutorial disponível no meu canal [Code X](https://www.youtube.com/channel/UCSeuCanal). Neste tutorial, ensino passo a passo como criar cartões de perfil responsivos utilizando apenas HTML e CSS puro, sem a necessidade de bibliotecas externas.
-
+### Acessa
+   LINK: https://xmaj2001.github.io/cardss/
 ## Funcionalidades
 
 - Design moderno e responsivo
@@ -26,3 +27,5 @@ Antes de começar, você precisará ter os seguintes itens instalados na sua má
 
    ```bash
    git clone https://github.com/xmaj2001/cardcss.git
+
+
